@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+}
+.side-bar{
+  height: 100vh;
+  background-color:#F8F9FA;
+}
+.side-bar li{
+ padding: 10px 20px;
+ text-align: center;
+ border-bottom: 1px solid gray;
+}
